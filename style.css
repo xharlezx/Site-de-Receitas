@@ -1,0 +1,29 @@
+
+html{
+    background-color: #F3E5D8;
+    scroll-behavior: smooth;
+}
+body{
+    margin: 5% auto;
+    max-width: 1120px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    background-size: 0 auto;
+    max-width: 50%;
+    border-radius: 3%;
+    background-size: 120% 120%;
+}
+img{
+    max-width: 100%;
+    border-radius: 5%;
+    margin:center;
+}
+.textos{
+    margin-top: 5%;
+    margin-left:5% ;
+    margin-bottom:5%;
+    margin-right: 5%;
+}
